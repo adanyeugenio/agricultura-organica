@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Noto Serif", sans-serif;
+}
+
+.titulo-principal, .titulo1{
+    text-transform: uppercase;
+}
+.cabecalho{
+    
+}
+.titulo1{
+    font-size: 25px;
+}
+.titulo-principal{
+    font-size: 70px;
+    font-weight: 700;
+}
